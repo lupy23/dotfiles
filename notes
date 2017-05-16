@@ -1,0 +1,3 @@
+#Bash line wrapping error
+shopt  | grep checkwinsize = checkwinsize    on otherwise
+shopt -s checkwinsize
